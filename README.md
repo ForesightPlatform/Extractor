@@ -9,7 +9,7 @@
 ## Установка Extractor без подключения к системе контроля версий Git
 Установка производится на платформу: [Форсайт.Аналитическая платформа](https://www.fsight.ru/download/)(ФАП).
 
-1. Скачиваем Форсайт.Extractor.pefx файл: __[Скачать](https://github.com/ForesightPlatform/Extractor/blob/main/%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B9%D1%82.Extractor.pefx)__
+1. Скачиваем Форсайт.Extractor.pefx файл: __[Скачать](https://github.com/ForesightPlatform/Extractor/raw/main/%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B9%D1%82.Extractor.pefx)__
 2. ФАП --> Навигатор --> Обновить объекты репозитория  
 3. Выбираем в папке с скачанным репозиторием файл "Форсайт.Extractor.pefx"
 4. Далее --> Готово  
